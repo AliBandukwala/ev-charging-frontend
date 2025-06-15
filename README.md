@@ -1,4 +1,4 @@
-# 🚗⚡ EV Charging Simulation (Frontend Takehome Task)
+# 🚗⚡ EV Charging Simulation
 
 A frontend simulation tool for visualizing EV charging behavior based on different charge point configurations.
 
